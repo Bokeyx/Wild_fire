@@ -1,4 +1,3 @@
 Main/Australia/data/*.csv filter=lfs diff=lfs merge=lfs -text
 Main/Canada/data/*.csv filter=lfs diff=lfs merge=lfs -text
-*.csv filter=lfs diff=lfs merge=lfs -text
 Main/USA/data/*.csv filter=lfs diff=lfs merge=lfs -text
